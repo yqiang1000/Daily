@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BC6F201-DCDA-495C-AB7B-9DD0D0FCB585</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Daily</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DD20433EB66AB1F5D912228A9DDA710A2F3C5CEF</key>
+		<string>https://github.com/yeqiang1000/DailyLife.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Daily/Daily.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DD20433EB66AB1F5D912228A9DDA710A2F3C5CEF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yeqiang1000/DailyLife.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD20433EB66AB1F5D912228A9DDA710A2F3C5CEF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD20433EB66AB1F5D912228A9DDA710A2F3C5CEF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>A2%E9%A1%B9%E7%9B%AE%E4%B8%89%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
