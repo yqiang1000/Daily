@@ -26,6 +26,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     
+    
+    
+    
     //中间
     _naviVC= [[BaseNavigationViewController alloc] initWithRootViewController:[[HomeViewController alloc] init]];
     
